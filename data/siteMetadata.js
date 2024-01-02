@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Yzal blog',
   author: 'Yzal',
   headerTitle: 'Yzal',
-  description: 'A blog created with Next.js and Tailwind.css to see how I am living my life',
+  description: 'A blog for me to add some accountability to my life and look back on my younger self as I grow.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://lazy-blog.vercel.app/',
